@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "carbon-starter"
+    }
+  },
+  "defaultProject": "carbon-starter",
+  "cli": {
+    "analytics": false
+  }
 }
